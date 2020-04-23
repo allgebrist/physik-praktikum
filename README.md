@@ -1,7 +1,6 @@
-# Studienkolleg (TU Berlin): Physik-Praktikum
-Studienkolleg der TU Berlin - Physik-Praktikum
+# Studienkolleg (TU Berlin): Physik-Praktikum 
 
-Das Verzeichnis beinthaltet Protokolle zu den folgenden Versuchen:
+Dieses Verzeichnis beinthaltet Protokolle zu den folgenden Versuchen vom Physik-Praktikum am Studienkolleg der TU Berlin:
 - **Das Federpendel** - Neng Tang, Nam Duong Tran, Allan A. Zea
 - **Aufladung und Entladung von Kondensatoren** - Clarissa Pinheiro, Neng Tang, Allan A. Zea
 - **Ohmsche Widerstände** - Neng Tang, Allan A. Zea, Andrei Zharski
@@ -11,3 +10,5 @@ Das Verzeichnis beinthaltet Protokolle zu den folgenden Versuchen:
 ---
 
 Kurs: 348T (WS2019/SS2020)
+
+* Alle Autoren haben gleichermaßen zu diesen Protokollen beigetragen.
