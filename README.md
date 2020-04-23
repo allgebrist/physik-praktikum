@@ -11,4 +11,4 @@ Dieses Verzeichnis beinthaltet Protokolle zu den folgenden Versuchen vom Physik-
 
 Kurs: 348T (WS2019/SS2020)
 
-* Alle Autoren haben gleichermaßen zu diesen Protokollen beigetragen.
+Alle Autoren haben gleichermaßen zu den Experimenten und Protokollen beigetragen.
