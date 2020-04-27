@@ -6,7 +6,7 @@ Dieses Verzeichnis beinthaltet Protokolle zu den folgenden Versuchen vom Physik-
 - **Ohmsche Widerstände** - Neng Tang, Allan A. Zea, Andrei Zharski
 - **Fehlerfortpflanzung** - Clarissa Pinheiro, Sofía Rodríguez, Vasu Seghal, Allan A. Zea
 - **Springender Ball** - Andrii Fedoryshyn, Vasu Seghal, Neng Tang, Allan A. Zea 
-- **Wechselstromwiderstaende** - Vladimir Lazarev, Allan A. Zea, Andrei Zharski
+- **Wechselstromwiderstände** - Vladimir Lazarev, Allan A. Zea, Andrei Zharski
 
 ---
 
