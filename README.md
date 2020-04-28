@@ -7,6 +7,7 @@ Dieses Verzeichnis beinthaltet Protokolle zu den folgenden Versuchen vom Physik-
 - **Fehlerfortpflanzung** - Clarissa Pinheiro, Sofía Rodríguez, Vasu Seghal, Allan A. Zea
 - **Springender Ball** - Andrii Fedoryshyn, Vasu Seghal, Neng Tang, Allan A. Zea 
 - **Wechselstromwiderstände** - Vladimir Lazarev, Allan A. Zea, Andrei Zharski
+- **Schiefe Ebene mit Reibung** - Dovat Atayev, Anna Chapak, Allan A. Zea
 
 ---
 
